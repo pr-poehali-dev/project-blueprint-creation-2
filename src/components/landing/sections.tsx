@@ -6,7 +6,8 @@ export const sections = [
     subtitle: <Badge variant="outline" className="text-white border-white">В наличии</Badge>,
     title: "KAC PDW. Орбизы решают.",
     showButton: true,
-    buttonText: 'Заказать'
+    buttonText: 'Заказать',
+    image: 'https://cdn.poehali.dev/projects/026a65d0-5458-4946-824c-5f1c36cc4152/files/605ab581-3f6d-47d9-b6c7-b309c3bcec21.jpg'
   },
   {
     id: 'about',
