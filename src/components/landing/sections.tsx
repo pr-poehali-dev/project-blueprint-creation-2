@@ -19,7 +19,7 @@ export const sections = [
     id: 'features',
     title: 'Технические характеристики',
     content: 'Электропривод, скорострельность до 11 выстрелов в секунду, дальность до 25 метров, ёмкий магазин на 500+ орбизов и складной приклад для удобной транспортировки.',
-    image: 'https://cdn.poehali.dev/projects/026a65d0-5458-4946-824c-5f1c36cc4152/bucket/d2657ae6-ff8f-4257-ba2c-bf1fb7f54047.jpg'
+    image: 'https://cdn.poehali.dev/projects/026a65d0-5458-4946-824c-5f1c36cc4152/bucket/92bc71c6-bb0f-41d8-9be5-ff56b45821fe.jpg'
   },
   {
     id: 'testimonials',
